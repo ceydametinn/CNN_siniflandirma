@@ -1,11 +1,4 @@
 # CNN Sınıflandırma
-Harika bir karar. Projenin sadece koddan ibaret olmadığını, arkasında ciddi bir **parametre mühendisliği (Hyperparameter Engineering)** ve stratejik analiz olduğunu gösteren, Github profilinde "Ben bu işi biliyorum" diye bağıracak profesyonel bir `README.md` hazırladım.
-
-Az önce senin yazdığın o harika teknik analiz kısmını ("Dropout 0.5 vs 0.2" vb.) metnin **"Teknik Mimari ve Hiperparametre Analizi"** başlığı altına özel olarak yerleştirdim.
-
-Bunu kopyala, GitHub'da `README.md` dosyanın içine yapıştır.
-
------
 
 # 🧵 CNN İle Nesne Sınıflandırma: Düğme ve Makara Tespiti
 
