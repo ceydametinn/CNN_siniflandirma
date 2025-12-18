@@ -113,4 +113,5 @@ Projeyi kendi bilgisayarınızda veya Google Colab üzerinde çalıştırmak iç
 
 
 Ceyda Metin
+
 **Bölüm:** Bilgisayar Mühendisliği
