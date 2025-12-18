@@ -1,6 +1,6 @@
 
 
-# 🧵 CNN İle Nesne Sınıflandırma: Düğme ve Makara Tespiti
+# CNN İle Nesne Sınıflandırma: Düğme ve Makara Tespiti
 
 ## 📖 Proje Hakkında
 
@@ -10,7 +10,7 @@ Proje kapsamında **Düğmeler** ve **Makaralar** olmak üzere iki sınıfı iç
 
 -----
 
-## 🛠️ Kullanılan Teknolojiler ve Araçlar
+## Kullanılan Teknolojiler ve Araçlar
 
   * **Dil:** Python 3.10
   * **Framework:** TensorFlow & Keras
@@ -34,7 +34,7 @@ Veri seti, proje kapsamında internetten alınmamış, **tamamen özgün olarak*
 
 -----
 
-## 🧠 Uygulanan Modeller ve Stratejiler
+##  Uygulanan Modeller ve Stratejiler
 
 Başarıyı artırmak ve yöntemleri kıyaslamak adına 3 aşamalı bir yol izlenmiştir:
 
@@ -58,7 +58,7 @@ Başarıyı artırmak ve yöntemleri kıyaslamak adına 3 aşamalı bir yol izle
 
 -----
 
-## 🧪 Teknik Mimari ve Hiperparametre Analizi
+##  Teknik Mimari ve Hiperparametre Analizi
 
 Bu çalışmada yapılan hiperparametre değişikliklerinin model başarısına etkisi detaylıca analiz edilmiştir:
 
