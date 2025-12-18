@@ -1,4 +1,4 @@
-# CNN Sınıflandırma
+
 
 # 🧵 CNN İle Nesne Sınıflandırma: Düğme ve Makara Tespiti
 
